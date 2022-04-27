@@ -1,0 +1,14 @@
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).exe
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).deps.json
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).runtimeconfig.json
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).runtimeconfig.dev.json
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).dll
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\bin\Debug\netcoreapp3.1\BookOOP(C).pdb
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).csproj.AssemblyReference.cache
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).AssemblyInfoInputs.cache
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).AssemblyInfo.cs
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).csproj.CoreCompileInputs.cache
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).dll
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).pdb
+C:\Users\NBIT\Desktop\Ejan\BookOOP(C)\BookOOP(C)\obj\Debug\netcoreapp3.1\BookOOP(C).genruntimeconfig.cache
